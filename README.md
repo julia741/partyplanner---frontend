@@ -1,6 +1,6 @@
 # PartyPlanner - frontend
 Backend link :
-
+[a link](https://github.com/julia741/partyplanner---backend)
 * [General info](#general_info)
 * [Technologies](#technologies)
 
