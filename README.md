@@ -1,4 +1,5 @@
-# BookMarked - BooksApp
+# PartyPlanner - frontend
+Backend link :
 
 * [General info](#general_info)
 * [Technologies](#technologies)
