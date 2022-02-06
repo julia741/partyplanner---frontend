@@ -1,6 +1,6 @@
 # BookMarked - BooksApp
 
-* [General info](#general info)
+* [General info](#general_info)
 * [Technologies](#technologies)
 
 ## General info
