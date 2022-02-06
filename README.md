@@ -12,7 +12,9 @@ Screenshoty :
 ### Lista wydarzeń
 ![Algorithm schema](./src/images/eventslist.png)
 ## Usuwanie wydarzenia
- ![Algorithm schema](./src/images/DeleteScreenshot_1.png)
+![Algorithm schema](./src/images/DeleteScreenshot_1.png)
+## Postman
+![Algorithm schema](./src/images/postman.png)
 ## inne
  ![Algorithm schema](./src/images/CreatebeforeScreenshot_1.png)
   ![Algorithm schema](./src/images/Screenshot_1.png)
