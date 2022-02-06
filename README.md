@@ -6,8 +6,11 @@ Backend link :
 
 ## General info
 PartyPlanner pozwala na dodawanie, usuwanie, aktualizowanie i wyświetlanie listy wydarzeń.
-Screenshoty strony:
+Screenshoty :
+### Dodawanie wydarzenia
 	![Algorithm schema](./src/images/CreateScreenshot.png)
+### Lista wydarzeń
+	![Algorithm schema](./src/images/eventslist.png)
 ## Technologies
 Projekt został stworzony z użyciem tych technologii:
 * Node.js
