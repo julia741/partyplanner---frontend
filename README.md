@@ -15,6 +15,8 @@ Screenshoty :
 ![Algorithm schema](./src/images/DeleteScreenshot_1.png)
 ## Postman
 ![Algorithm schema](./src/images/postman.png)
+## MongoDB
+![Algorithm schema](./src/images/mongodb.png)
 ## inne
  ![Algorithm schema](./src/images/CreatebeforeScreenshot_1.png)
   ![Algorithm schema](./src/images/Screenshot_1.png)
